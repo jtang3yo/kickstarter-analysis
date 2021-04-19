@@ -24,3 +24,7 @@ Extracting data related to outcomes and launch dates in theater category from ki
 * Goal amount $20,000 is a threshold, the lower the goal amount set, the higher likely the project will succeed. 
 * The line chart shows that the successful and failed rates formed in a exact opposite pattern, the successful rate started recovering when it reached the point of $25,000, so the opposite of failed rate. 
 * In order to get more productive, the goal amount should focus more on less than $25,000, and between $35,000 to $44,999. 
+## Limitations of this dataset 
+The data points are very few in the dataset, missing value and other variance, which is relatively biased to generate a generalized enough set for future predictions. 
+## Other possible tables and/or graphs 
+We could also create bar chart and/or pie chart, however, each data visualization has its own limitations to present the data, so the line chart could be relatively accurate to pinpoint the data that reflected in terms of each month. 
